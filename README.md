@@ -1,2 +1,1 @@
 # Emoji-Rating
-# Emoji-Rating
